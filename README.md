@@ -6,5 +6,5 @@
 - ➡️ (https://www.linkedin.com/in/erin-lash/)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=elash1312
-)
+![Github stats](https://github-readme-stats.vercel.app/api?username=elash1312&hide=stars,issues,prs&show_icons=true&theme=merko)
+
