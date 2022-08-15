@@ -4,3 +4,7 @@
 - 🌱 I’m currently working on new projects for my portfolio, coming soon!
 - 💞️ I’m looking to collaborate on projects working mainly the front-end for now, reach out if you're looking to network!
 - ➡️ (https://www.linkedin.com/in/erin-lash/)
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=elash1312
+)
